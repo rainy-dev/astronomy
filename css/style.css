@@ -1,0 +1,162 @@
+body {
+    background-color: #E5E9F0;
+    color: #2E3440;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.box {
+    padding: 130px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+
+    max-width: 950px;
+    min-width: 950px;
+
+    border-radius: 5px;
+
+    background-color: white;
+}
+
+a {
+    color: #14599D;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #133b60;
+
+    border-bottom: 1px solid #133b60;
+}
+
+a.cite {
+    font-size: 12px;
+    vertical-align: super;
+    color: #14599D;
+    text-decoration: none;
+}
+
+a.cite:hover {
+    color: #133b60;
+
+    border-bottom: 0.5px solid #133b60;
+}
+
+a.nav {
+    padding: 6px 20px;
+
+    background-color: #ECEFF4;
+    color: #14599D;
+    text-decoration: none;
+
+    border-radius: 25px;
+}
+
+a.nav:hover {
+    background-color: #E5E9F0;
+    color: #133b60;
+
+    border: none;
+}
+
+span.info {
+    border-bottom: 1px dotted #133b60;
+    cursor: help;
+}
+
+span.block {
+    padding: 2px 4px;
+    font-family: monospace;
+    font-size: 15px;
+
+    border-radius: 4px;
+    background-color: #ECEFF4;
+}
+
+blockquote {
+    margin-left: 0px;
+    padding-left: 45px;
+    color: #5E81AC;
+
+    border-left: 2px solid #5E81AC;
+}
+
+a.title {
+    font-weight: normal;
+    font-family: serif;
+    font-size: 26px;
+}
+
+a.title:hover {
+    font-weight: normal;
+    font-family: serif;
+    font-size: 26px;
+
+    color: #1f487a;
+
+    border: none;
+}
+
+h1 {
+    border-bottom: 1px solid #d9dde1;
+    font-weight: normal;
+    font-family: serif;
+    font-size: 30px;
+    line-height: 1.4;
+}
+
+h2 {
+    margin-bottom: 10px;
+
+    border-bottom: 1px solid #d9dde1;
+    font-weight: normal;
+    font-family: serif;
+    font-size: 24px;
+    line-height: 1.4;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 0.8;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 0.8;
+}
+
+h4 {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    line-height: 0.6;
+}
+
+img.tn {
+    margin-left: 10px;
+
+    width: 15%;
+    height: 15%;
+
+    float: right;
+}
+
+img.tn:active {
+    margin-left: 10px;
+
+    width: 20%;
+    height: 20%;
+
+    float: right;
+}
